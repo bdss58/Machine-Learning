@@ -1,3 +1,3 @@
 Machine-Learning
 ================
-this tutorial directed by Andrud Ng from stanford
+this tutorial directed by Andrew Ng from stanford
